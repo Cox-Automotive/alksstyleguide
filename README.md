@@ -1,3 +1,7 @@
+ALKS Style Guide
+===================
+This style guide is forked from google's styleguide repo so that we can make tweaks but still easily sync changes made to google's repo into this one. At the moment, ALKS adheres only to intellij-java-google-style.xml. All other files in this repo are just remnants of the google's repo.
+
 Google Style Guides
 ===================
 
